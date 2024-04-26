@@ -1,0 +1,2 @@
+.cat-info{align-items:flex-start;margin-top:20px;display:flex}.loader_circle{width:50px;height:50px;box-sizing:border-box;border:5px solid #fff;border-bottom-color:red;border-radius:50%;animation:rotation .5s linear infinite;display:inline-block;position:absolute;top:25%;left:50%}@keyframes rotation{0%{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+/*# sourceMappingURL=index.733e33d1.css.map */
